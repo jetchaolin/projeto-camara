@@ -65,7 +65,7 @@ end
 
 gem "pry", "~> 0.15.2"
 
-gem "pry-doc", "~> 1.5"
+gem "pry-doc", "~> 1.6"
 
 gem "pry-byebug", "~> 3.8"
 
